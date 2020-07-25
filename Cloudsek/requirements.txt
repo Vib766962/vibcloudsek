@@ -1,0 +1,8 @@
+Django==3.0.8
+django-ratelimit==3.0.0
+djangorestframework==3.11.0
+pytz==2020.1
+sqlparse==0.3.1
+psycopg2
+requests
+gunicorn==19.9.0
