@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 django-ratelimit = "==3.0.0"
-djangorestframework = "==3.11.0"
+djangorestframework = "==3.11.2"
 pytz = "==2020.1"
 sqlparse = "==0.3.1"
 psycopg2 = "*"
