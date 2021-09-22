@@ -13,7 +13,7 @@ sqlparse = "==0.3.1"
 psycopg2 = "*"
 requests = "*"
 gunicorn = "==19.9.0"
-Django = "==3.0.8"
+Django = "==3.1.13"
 
 [requires]
 python_version = "3.7"
